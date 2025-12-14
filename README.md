@@ -107,7 +107,7 @@ pca = PCA(n_components=3)
 
 ---
 
-## 7. Principais Gráficos e Como Interpretá-los 📈
+## 7. Principais Gráficos e Como Interpretá-los 
 
 | Gráfico | O que mostra | Como interpretar |
 |---------|--------------|------------------|
