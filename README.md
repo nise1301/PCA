@@ -4,7 +4,7 @@ Este projeto utiliza o famoso dataset Iris para demonstrar de forma prática o f
 
 ---
 
-## Sobre o Dataset Iris 📊
+## Sobre o Dataset Iris 
 
 - **150 amostras** de flores Iris (50 de cada espécie)
 - **3 espécies**: Setosa, Versicolor e Virginica
