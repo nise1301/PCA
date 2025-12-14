@@ -37,7 +37,7 @@ Em modelos não supervisionados (como Agrupamento/Clustering), não temos o gaba
 
 ---
 
-## 3. Resultados do PCA no Dataset Iris 🔬
+## 3. Resultados do PCA no Dataset Iris 
 
 ### Variância Explicada por Componente:
 
@@ -160,4 +160,5 @@ Após dominar este exemplo com Iris, você pode:
 
 ---
 
-**Desenvolvido com 💙 para ensinar PCA de forma didática**
+**Desenvolvido por: Denise Ramos Soares**
+Para a disciplina de Introdução a Ciência de Dados do Mestrado em Informatica Aplicada da UNIFOR, sob a supervisão do professor Dr. Erneson Alves de Oliveira
